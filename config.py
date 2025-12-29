@@ -34,7 +34,7 @@ BOT_USERNAME = os.getenv("BOT_USERNAME", "tfc_x_musicbot")
 
 MONGO_DB_URI = os.getenv(
     "MONGO_DB_URI",
-    "mongodb+srv://Bossaahubdb:pmDPc44XLRB097vm@cluster0.unuj1k8.mongodb.net/?appName=Cluster0"
+    "mongodb+srv://acoolvoice03_db_user:66wPNmEfc2Wjwvtx@cluster0.t91uvkm.mongodb.net/?appName=Cluster0"
 )
 
 LOG_GROUP_ID = get_int("LOG_GROUP_ID", -1003369263462)
