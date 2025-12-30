@@ -19,7 +19,10 @@
 # Contact for permissions:
 # Email: badboy809075@gmail.com
 
+import threading
+import alive
 
+threading.Thread(target=alive, daemon=True).start()
 import asyncio
 import importlib
 from pyrogram import idle
