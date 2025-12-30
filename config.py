@@ -44,7 +44,7 @@ LOG_GROUP_ID = get_int("LOG_GROUP_ID", -1003369263462)
 HEROKU_APP_NAME = os.getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = os.getenv("HEROKU_API_KEY")
 
-UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://shrutimusic-0ly5.onrender.com")
+UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/acoolvoice03-ops/ShrutiMusic/tree/main")
 UPSTREAM_BRANCH = os.getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = os.getenv("GIT_TOKEN")
 
