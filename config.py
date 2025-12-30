@@ -28,7 +28,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "8577192556:AAH_VGCGYNA_s-_NFXeyXMb12_J7UIGK4
 
 OWNER_ID = get_int("OWNER_ID", 8525952693)
 OWNER_USERNAME = os.getenv("OWNER_USERNAME", "funnytamilan")
-BOT_USERNAME = os.getenv("BOT_USERNAME", "tfc_x_musicbot")
+BOT_USERNAME = os.getenv("BOT_USERNAME", "MUSIC_TFC_BOT")
 
 # ---------- DATABASE ----------
 
